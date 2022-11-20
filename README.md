@@ -1,4 +1,4 @@
 # genomeX
 Genomics work
 
-This repo contancs bioinformatics work in genomics
+This repo contains bioinformatics work in genomics
